@@ -460,7 +460,9 @@ docker run --detach -v /workspaces/OSProject/webpage:/usr/local/apache2/htdocs/ 
 drwxrwxrwx+ 2 codespace codespace 4096 Jan 22 07:27 /workspaces/OSProject/webpage
 ```
 the user and group owns the folder is codespace.
+
 2. What port is the apache web server running. ***(1 mark)*** Apache web server is running on port 80.
+
 3. What port is open for http protocol on the host machine? ***(1 mark)***On the host machine, the port open for HTTP protocol is 8080.
 
 ## What to submit
